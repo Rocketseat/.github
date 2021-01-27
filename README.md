@@ -1,2 +1,3 @@
 # .github
-Rocketseat community health files 👋🏻
+
+Community health files for the @Rocketseat organization 👋🏻
